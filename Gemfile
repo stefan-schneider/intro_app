@@ -9,6 +9,9 @@ group :development do
   gem 'sqlite3', '1.3.7'
 end
 
+# Use HAML for markup files
+gem 'haml-rails', '0.4'
+
 # Use SCSS for stylesheets
 gem 'sass-rails', '4.0.0'
 
